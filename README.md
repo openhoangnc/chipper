@@ -7,6 +7,13 @@ Chipper is a small tool for testing CPUs.
 
 It runs multiple tests and measures execution time. Based on that time, you can relatively compare CPUs.
 
+
+## ⚡️⚡️ Quick run with Docker
+
+```shell
+docker run --rm openhoangnc/chipper
+```
+
 <p align="center">
   <img src="docs/chipper-screenshot.png" alt="Chipper screenshot">
 </p>
